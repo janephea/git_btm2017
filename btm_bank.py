@@ -34,4 +34,3 @@ if __name__=="__main__":
    reception()
    demand = wait_demand()
    action_dispatcher(demand)
-    
